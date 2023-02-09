@@ -1,0 +1,8 @@
+table, td, th{border: 2px solid green; border-collapse: collapse;}
+caption, table { font-family: Arial}
+table {font-size: 24px}
+caption {border-right: 2px solid green; border-left: 2px solid green; border-top: 2px solid green; border-collapse: collapse;}
+	a { color: red; font-style: italic }
+table, caption{background-color: #AFEEEE}
+body {background: url(wallpapers.jpg); background-size: 1360px 656px }
+
